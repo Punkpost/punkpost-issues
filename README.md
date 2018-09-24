@@ -1,2 +1,2 @@
-# punkpost-issues
-Public reported issues for Punkpost apps.
+# Punkpost Issues
+Community reported issues for Punkpost apps.
